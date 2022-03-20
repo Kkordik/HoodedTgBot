@@ -14,6 +14,12 @@ from aiogram.types import ParseMode
 from aiogram.utils import executor
 import time
 
+# host=host,
+# port=3306, 
+# user=user,                     all it is taken from file 'passw'
+#password=password,
+#database=db_name, 
+#API_TOKEN 
 
 bot = Bot(token=API_TOKEN)
 
